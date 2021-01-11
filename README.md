@@ -1,3 +1,4 @@
+blah blah
 # canvas-test
 
 兴趣使然写的canvas小玩意<br>
